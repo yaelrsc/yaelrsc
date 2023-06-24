@@ -6,7 +6,7 @@
 - Interesado en áreas como Estadística, Estadística Bayesiana, Series de Tiempo, Aprendizaje Automático, Probabilidad y Procesos Estocásticos.
 -  📝 Regularmente escribo artículos en  [https://medium.com/@Yaelrsc](https://medium.com/@Yaelrsc)
 
-## Conocimientos y herramientas
+## Lenguajes y herramientas
 - Lenguajes y herramientas: Git, MySQL, PostgreSQL, R, TensorFlow, scikit-learn, Keras, Pandas, Seaborn, Streamlit, KerasTuner.
 
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white&logoWidth=100)
