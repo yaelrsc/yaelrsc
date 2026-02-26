@@ -23,6 +23,5 @@
 
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yael%20René%20Santiago%20Cruz-blue?style=flat-square&logo=linkedin&logoWidth=10)](https://www.linkedin.com/in/yael-rene-santiago-cruz-332b70210/)
-[![YouTube](https://img.shields.io/badge/YouTube-Yael%20René-red?style=flat-square&logo=youtube&logoWidth=10)](https://www.youtube.com/channel/UCUX85C_1UJMbNkzwPG0DNNQ)
 [![Medium](https://img.shields.io/badge/Medium-Yael%20René-03a57a?style=flat-square&logo=medium&logoWidth=10)](https://medium.com/@Yaelrsc)
 - Correo electrónico: yaelrsc@ciencias.unam.mx
